@@ -3,14 +3,13 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and learning new technologies. Here's a bit about me:
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, HTML, CSS, C++, Java
-- **Frameworks**: Gofiber
-- **Tools**: Git, GitHub, VSCode, Docker, Firebase
-- **Databases**: MySQL, MongoDB, Firebase
+- **Languages**: Python,HTML,CSS,JS
+- **Tools**: GitHub, VSCode
+- **Databases**: MySQL
 
 ## 🚀 What I’m currently working on:
 - Contributing to open-source projects
-- Developing Backend applications
+- Developing frontend applications
 - Building personal projects on GitHub
 
 ## 🌱 I’m currently learning:
